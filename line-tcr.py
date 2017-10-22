@@ -82,8 +82,8 @@ Amid = ki.getProfile().mid
 Bmid = kk.getProfile().mid
 Cmid = kc.getProfile().mid
 
-Bots=[mid,Amid,Bmid,Cmid,"u5d4464430b4f6e405090cb63c34f471e"]
-admin=["u5d4464430b4f6e405090cb63c34f471e"]
+Bots=[mid,Amid,Bmid,Cmid,]
+admin=["ua900e1ba4a91a01b7de658f26471c510"]
 wait = {
     'contact':True,
     'autoJoin':True,
@@ -99,10 +99,10 @@ wait = {
     "wblack":False,
     "dblack":False,
     "clock":True,
-    "cName":"[D.B]-First ",
-    "cName2":"[D.B]-Second ",
-    "cName3":"[D.B]-third ",
-    "cName4":"[D.B]-Fourth ",
+    "cName":"[Defcon]-First ",
+    "cName2":"[Defcon]-Second ",
+    "cName3":"[Defcon]-third ",
+    "cName4":"[Defcon]-Fourth ",
     "blacklist":{},
     "wblacklist":False,
     "dblacklist":False,
