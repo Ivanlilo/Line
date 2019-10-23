@@ -10,29 +10,29 @@ import time,random,sys,json,codecs,threading,glob,os,subprocess,multiprocessing
 #bot.login(token="AuthToken")
 
 cl = LineAlpha.LINE()
-cl.login(token="AuthToken")
+cl.login(token="U1afa490979eb023cf3ed0db8c233f61e")
 cl.loginResult()
 
 kk = LineAlpha.LINE()
-kk.login(token="AuthToken")
+kk.login(token="U1afa490979eb023cf3ed0db8c233f61e")
 kk.loginResult()
 
 ki = LineAlpha.LINE()
-ki.login(token="AuthToken")
+ki.login(token="U1afa490979eb023cf3ed0db8c233f61e")
 ki.loginResult()
 
 kc = LineAlpha.LINE()
-kc.login(token="AuthToken")
+kc.login(token="U1afa490979eb023cf3ed0db8c233f61e")
 kc.loginResult()
 
 kg = LineAlpha.LINE()
-kg.login(token="AuthToken")
+kg.login(token="U1afa490979eb023cf3ed0db8c233f61e")
 kg.loginResult()
 
 #selfbot (akun sendiri) cuman dibutuhin kalo mau auto join kalo di kick
 
 adm = LineAlpha.LINE()
-adm.login(token="AuthToken")
+adm.login(token="U1afa490979eb023cf3ed0db8c233f61e")
 adm.loginResult()
 
 #imgur stuff
@@ -101,9 +101,9 @@ Cmid = kc.getProfile().mid
 Dmid = kg.getProfile().mid
 Bots = [mid,Amid,Bmid,Cmid,Dmid]
 #nyalain bot dulu baru ketik "Ar Yid buat ngedapetin MID akun line mu"
-admin = ["MID_ADMIN"]
-staff = ["MID_ADMIN"]
-adminMID = "MID_ADMIN"
+admin = ["U1afa490979eb023cf3ed0db8c233f61e"]
+staff = ["U1afa490979eb023cf3ed0db8c233f61e"]
+adminMID = "U1afa490979eb023cf3ed0db8c233f61e"
 wait = {
     'contact':True,
     'autoJoin':True,
